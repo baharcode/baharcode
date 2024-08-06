@@ -8,8 +8,10 @@ I'm Bahar Yilmaz, a beginner in the world of data science. I'm eager to learn an
 Python programming language
 Basic data analysis and visualization
 Fundamentals of machine learning
+
 📫 Contact
 Email: baharyilmaz96@hotmail.com
+
 LinkedIn: Bahar Yılmaz | https://www.linkedin.com/in/bahar-yilmaz-976435144/
 
 💡 Interests
